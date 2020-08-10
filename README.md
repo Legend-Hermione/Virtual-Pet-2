@@ -1,2 +1,1 @@
-# Virtual-Pet-2
-This is the more developed version of virtual pet 1
+# Virtual-pet-2-c36
